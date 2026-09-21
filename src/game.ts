@@ -204,25 +204,25 @@ export const AVATAR_GRADS = [
 ];
 
 export const NAME_POOL_EN = [
-  "Afsal",
-  "Anu",
-  "Rahul",
-  "Shreya",
-  "Arjun",
-  "Meera",
-  "Vishnu",
-  "Lakshmi",
+  "Player 1",
+  "Player 2",
+  "Player 3",
+  "Player 4",
+  "Player 5",
+  "Player 6",
+  "Player 7",
+  "Player 8",
 ];
 
 export const NAME_POOL_ML = [
-  "അഫ്സൽ",
-  "അനു",
-  "രാഹുൽ",
-  "ശ്രേയ",
-  "അർജുൻ",
-  "മീര",
-  "വിഷ്ണു",
-  "ലക്ഷ്മി",
+  "Player 1",
+  "Player 2",
+  "Player 3",
+  "Player 4",
+  "Player 5",
+  "Player 6",
+  "Player 7",
+  "Player 8",
 ];
 
 export const TARGET_OPTIONS = [5000, 10000, 15000, 20000];
